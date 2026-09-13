@@ -1,0 +1,67 @@
+archive=Spam-Email-Detection-main.zip
+valid_zip=True
+first_bad_member=
+member_count=61
+
+size	compressed	crc32	path
+0	0	00000000	Spam-Email-Detection-main/
+544	301	8c68f6c9	Spam-Email-Detection-main/.gitignore
+5	5	5159eecf	Spam-Email-Detection-main/.python-version
+0	0	00000000	Spam-Email-Detection-main/Notebook Experiments/
+101011	60903	f374ccbf	Spam-Email-Detection-main/Notebook Experiments/Spam Email Detection.ipynb
+3945	1907	684b4438	Spam-Email-Detection-main/README.md
+4164	1436	5b3a6ed1	Spam-Email-Detection-main/app.py
+0	0	00000000	Spam-Email-Detection-main/data/
+0	0	00000000	Spam-Email-Detection-main/data/dataset/
+484911	208643	aec01832	Spam-Email-Detection-main/data/dataset/dataset.csv
+0	0	00000000	Spam-Email-Detection-main/data/models/
+0	0	00000000	Spam-Email-Detection-main/data/models/v1/
+212223	74708	195c355e	Spam-Email-Detection-main/data/models/v1/feature.pkl
+10523913	2730804	37cdfe90	Spam-Email-Detection-main/data/models/v1/model.pkl
+0	0	00000000	Spam-Email-Detection-main/outputs/
+0	0	00000000	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/
+0	0	00000000	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/models/
+131573	82809	17f19f76	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/models/SVM_model.pkl
+138244	57738	a54404a5	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/models/vectorizer.pkl
+0	0	00000000	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/
+152	115	6fb280a8	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/DecisionTree_detailed_metrics.csv
+148	115	5c9de96e	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/KNN_detailed_metrics.csv
+152	114	08613dd6	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/LogisticRegression_detailed_metrics.csv
+152	114	821c865a	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/RandomForest_detailed_metrics.csv
+150	114	75d23443	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/SVM_detailed_metrics.csv
+257	187	dc6b5c16	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/best_model_info.csv
+648	333	0facef1d	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/best_parameters.csv
+607	334	eaa40674	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/cross_validation_summary.csv
+596	314	ea7d18bb	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/model_comparison_summary.csv
+505	299	40149e4a	Spam-Email-Detection-main/outputs/2025-12-25_10-01-23/observations/model_metadata.csv
+0	0	00000000	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/
+0	0	00000000	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/models/
+131573	82809	17f19f76	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/models/SVM_model.pkl
+138244	57738	2cc192cc	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/models/vectorizer.pkl
+0	0	00000000	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/observations/
+257	187	dc6b5c16	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/observations/best_model_info.csv
+648	333	0facef1d	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/observations/best_parameters.csv
+607	334	eaa40674	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/observations/cross_validation_summary.csv
+596	314	ea7d18bb	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/observations/model_comparison_summary.csv
+505	300	5741048f	Spam-Email-Detection-main/outputs/2025-12-25_14-02-05/observations/model_metadata.csv
+418	258	67a2fce9	Spam-Email-Detection-main/pyproject.toml
+168	129	6e854a1e	Spam-Email-Detection-main/requirements.txt
+0	0	00000000	Spam-Email-Detection-main/src/
+0	0	00000000	Spam-Email-Detection-main/src/__init__.py
+0	0	00000000	Spam-Email-Detection-main/src/components/
+638	293	3131be80	Spam-Email-Detection-main/src/components/data_ingestion.py
+2647	865	031ed43a	Spam-Email-Detection-main/src/components/data_transformation.py
+11302	2508	b10677c1	Spam-Email-Detection-main/src/components/model_training.py
+0	0	00000000	Spam-Email-Detection-main/src/config/
+1385	552	cae047cb	Spam-Email-Detection-main/src/config/config.py
+0	0	00000000	Spam-Email-Detection-main/src/pipeline/
+0	0	00000000	Spam-Email-Detection-main/src/pipeline/__init__.py
+4957	1403	aab646de	Spam-Email-Detection-main/src/pipeline/prediction_pipeline.py
+2158	674	e662b3e4	Spam-Email-Detection-main/src/pipeline/training_pipeline.py
+0	0	00000000	Spam-Email-Detection-main/src/utils/
+0	0	00000000	Spam-Email-Detection-main/src/utils/__init__.py
+2178	681	341d68d4	Spam-Email-Detection-main/src/utils/email_utils.py
+1019	477	1bd6e13c	Spam-Email-Detection-main/src/utils/logger.py
+920	280	bec5b836	Spam-Email-Detection-main/src/utils/state.py
+0	0	00000000	Spam-Email-Detection-main/src/utils/utils.py
+175591	55292	3e90bc95	Spam-Email-Detection-main/uv.lock
